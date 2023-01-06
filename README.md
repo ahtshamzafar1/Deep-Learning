@@ -1,4 +1,4 @@
-# Transfer Learning DL Models 
+# Transfer Learning and DL Models 
 The repository contains many state of the art transfer learning models, that can used directly for DL applications without need for heavy computational systems. 
 
 The Models Include:
