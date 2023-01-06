@@ -11,3 +11,20 @@ The Models Include:
 6. CNN
 7. 6-Layered CNN
 7. ALEXNET
+
+# Numpy Based Neural Network 
+ ## The notebook contains a 2 layered neural Network designed from scratch using only NUMPY Library. 
+ ### Function Include:
+
+ 1. init_params()
+ Initializes all the weights and biases. 
+ 2. ReLU()
+ The activation function to add non-linearity.
+ 3. forward_prop()
+ The process of forward propagation.
+ 4. ReLU_deriv()
+ Derivative of activation, required for back propagation. 
+ 5. backward_prop()
+ The process of backward propagation.
+ 6. update_params()
+ Update all wights and biases with new values. 
