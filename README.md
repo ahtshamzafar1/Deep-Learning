@@ -9,4 +9,5 @@ The Models Include:
 4. INCEPTIONV3
 5. GOOGLENET2
 6. CNN
+7. 6-Layered CNN
 7. ALEXNET
