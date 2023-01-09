@@ -8,9 +8,10 @@ The Models Include:
 3. SQUEEZENET
 4. INCEPTIONV3
 5. GOOGLENET2
-6. CNN
+6. ALEXNET
 7. 6-Layered CNN
-7. ALEXNET
+8. CNN
+9. LRCN 
 
 # Numpy Based Neural Network 
  ## The notebook contains a 2 layered neural Network designed from scratch using only NUMPY Library. 
